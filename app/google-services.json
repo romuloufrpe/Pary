@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541629459941",
+    "firebase_url": "https://party-76776.firebaseio.com",
+    "project_id": "party-76776",
+    "storage_bucket": "party-76776.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541629459941:android:482dbc1b6cdad952",
+        "android_client_info": {
+          "package_name": "com.chesse.party"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541629459941-9s6o02rq7lo0mludom1mlrudko17nnn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqinSAaCXLHv2WoE56Ps0RjBIgVCD3hTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
