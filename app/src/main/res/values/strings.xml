@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Party</string>
+    <string name="access_token">pk.eyJ1IjoicGFydHlhcHAiLCJhIjoiY2l2Y3RqeTdkMDBnZTJ6bGJsaG1kbHp2ciJ9.JYZRoyZAO5QC3TKlwtPJUg</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
