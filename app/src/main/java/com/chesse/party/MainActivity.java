@@ -11,6 +11,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.chesse.party.domain.EventNewsActivity;
 import com.chesse.party.mapfragment.MapsActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -50,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                 if (firebaseAuth.getCurrentUser() != null){
 
                     //startActivity(new Intent(MainActivity.this, SingUpActivity.class));
-                    Intent intentLogin = new Intent(MainActivity.this, MapsActivity.class);
+                    Intent intentLogin = new Intent(MainActivity.this, EventNewsActivity.class);
                     intentLogin.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
                     startActivity(intentLogin);
 
